@@ -11,3 +11,6 @@ npm i react-hot-toast
 npx prisma migrate reset
 npx prisma generate
 npx prisma db push
+
+npx shadcn-ui@latest add popover
+npx shadcn-ui@latest add command
