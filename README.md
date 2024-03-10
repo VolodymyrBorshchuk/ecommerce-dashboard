@@ -14,3 +14,5 @@ npx prisma db push
 
 npx shadcn-ui@latest add popover
 npx shadcn-ui@latest add command
+
+npm install next-cloudinary
