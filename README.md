@@ -23,3 +23,5 @@ npm install @tanstack/react-table
  npm i date-fns
 
  npx shadcn-ui@latest add dropdown-menu
+
+npx shadcn-ui@latest add select
