@@ -25,3 +25,5 @@ npm install @tanstack/react-table
  npx shadcn-ui@latest add dropdown-menu
 
 npx shadcn-ui@latest add select
+
+npx shadcn-ui@latest add checkbox
